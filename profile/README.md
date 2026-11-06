@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-rtcloud.png" alt="RTCloud" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rtcloud-br/.github/main/profile/banner-rtcloud.png" alt="RTCloud" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/rtcloud-br/.github/main/profile/divider.png" alt="" width="80%"/>
 </p>
 
 ## 🚀 O que é a RTCloud
@@ -31,7 +31,7 @@
 Plataforma brasileira para hospedar:
 
 <p align="center">
-  <img src="./illust-services.png" alt="Serviços RTCloud" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rtcloud-br/.github/main/profile/illust-services.png" alt="Serviços RTCloud" width="100%"/>
 </p>
 
 - **Bots** — Discord, WhatsApp, Telegram e Slack (24h, reinício automático)
