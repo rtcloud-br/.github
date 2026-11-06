@@ -40,6 +40,41 @@ Plataforma brasileira para hospedar:
 - **Bancos dedicados** — MongoDB, PostgreSQL, MySQL, Redis
 - **APIs de alto tráfego** — até 16 vCPU / 32 GB (Apex) e Obsidian até 768 GB
 
+## 🤖 Bases de bots
+
+Comece com as bases abertas de **[RTPySystems](https://github.com/RTPySystems)**, criador da RTCloud. Escolha a plataforma, adapte os comandos e siga o guia de hospedagem incluído em cada projeto.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/RTPySystems/discord-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/discord-bot-base/main/assets/banner.svg" alt="Discord Bot Base" width="100%"/></a>
+      <h3>Discord</h3>
+      <p><strong>Node.js 24 · discord.js v14</strong></p>
+      <p>Slash commands, permissões, cooldowns, embeds e eventos organizados.</p>
+      <p><a href="https://github.com/RTPySystems/discord-bot-base"><strong>Ver código e usar a base →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/RTPySystems/telegram-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/telegram-bot-base/main/assets/banner.svg" alt="Telegram Bot Base" width="100%"/></a>
+      <h3>Telegram</h3>
+      <p><strong>Node.js 24 · grammY</strong></p>
+      <p>Menu inline, comandos, middlewares, acesso administrativo e rate limiting.</p>
+      <p><a href="https://github.com/RTPySystems/telegram-bot-base"><strong>Ver código e usar a base →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/RTPySystems/whatsapp-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/whatsapp-bot-base/main/assets/banner.svg" alt="WhatsApp Bot Base" width="100%"/></a>
+      <h3>WhatsApp</h3>
+      <p><strong>Node.js 24 · Baileys</strong></p>
+      <p>QR ou pareamento, sessão persistente, reconexão com backoff e anti-spam.</p>
+      <p><a href="https://github.com/RTPySystems/whatsapp-bot-base"><strong>Ver código e usar a base →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+As três bases têm **licença MIT**, testes, CI, Docker e guia de **[deploy na RTCloud](https://rtcloud.com.br)**. Abra o repositório e use **Use this template** para começar o seu projeto.
+
+<sub>WhatsApp: integração não oficial, com Baileys em release candidate. Leia os riscos e os limites da persistência de sessão no README antes de usar.</sub>
+
+
 ## ✨ Recursos em destaque
 
 | Recurso | Detalhe |
