@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-rtcloud.svg" alt="RTCloud" width="100%"/>
+  <img src="./banner-rtcloud.png" alt="RTCloud" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.svg" alt="" width="80%"/>
+  <img src="./divider.png" alt="" width="80%"/>
 </p>
 
 ## 🚀 O que é a RTCloud
@@ -31,7 +31,7 @@
 Plataforma brasileira para hospedar:
 
 <p align="center">
-  <img src="./illust-services.svg" alt="Serviços RTCloud" width="100%"/>
+  <img src="./illust-services.png" alt="Serviços RTCloud" width="100%"/>
 </p>
 
 - **Bots** — Discord, WhatsApp, Telegram e Slack (24h, reinício automático)
@@ -47,21 +47,21 @@ Comece com as bases abertas de **[RTPySystems](https://github.com/RTPySystems)**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/discord-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/discord-bot-base/main/assets/banner.svg" alt="Discord Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/discord-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/discord-bot-base/main/assets/banner.png" alt="Discord Bot Base" width="100%"/></a>
       <h3>Discord</h3>
       <p><strong>Node.js 24 · discord.js v14</strong></p>
       <p>Slash commands, permissões, cooldowns, embeds e eventos organizados.</p>
       <p><a href="https://github.com/RTPySystems/discord-bot-base"><strong>Ver código e usar a base →</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/telegram-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/telegram-bot-base/main/assets/banner.svg" alt="Telegram Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/telegram-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/telegram-bot-base/main/assets/banner.png" alt="Telegram Bot Base" width="100%"/></a>
       <h3>Telegram</h3>
       <p><strong>Node.js 24 · grammY</strong></p>
       <p>Menu inline, comandos, middlewares, acesso administrativo e rate limiting.</p>
       <p><a href="https://github.com/RTPySystems/telegram-bot-base"><strong>Ver código e usar a base →</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/whatsapp-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/whatsapp-bot-base/main/assets/banner.svg" alt="WhatsApp Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/whatsapp-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/whatsapp-bot-base/main/assets/banner.png" alt="WhatsApp Bot Base" width="100%"/></a>
       <h3>WhatsApp</h3>
       <p><strong>Node.js 24 · Baileys</strong></p>
       <p>QR ou pareamento, sessão persistente, reconexão com backoff e anti-spam.</p>
