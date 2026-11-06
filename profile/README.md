@@ -76,17 +76,17 @@ Plataforma brasileira para hospedar:
 
 ## 📰 Novidades
 
-Changelog oficial da RTCloud (versão por versão): **[rtcloud.com.br/novidades](https://rtcloud.com.br/novidades)**
+Changelog oficial: **[rtcloud.com.br/novidades](https://rtcloud.com.br/novidades)** · só a partir da **v5.0**.
 
 | Versão | Data | Resumo |
 |:--|:--|:--|
 | **v5.2** | 06/11/2026 | Analytics de verdade, Network completa e balanceamento pelo painel |
-| v5.1.1 | 04/11/2026 | Ferramentas MCP: aba própria e tutorial para cada uma |
-| v5.1 | 04/11/2026 | Conecte Claude, Grok, ChatGPT, Cursor e outras à RTCloud (MCP) |
-| v5.0 | 02/11/2026 | App RTCloud para Android, iPhone/iPad e Windows |
-| v4.9.15 | 01/11/2026 | Correções em backups, snapshots e bancos + “Como conectar” |
+| **v5.1.1** | 04/11/2026 | Ferramentas MCP: aba própria e tutorial para cada uma |
+| **v5.1** | 04/11/2026 | Conecte Claude, Grok, ChatGPT, Cursor e outras à RTCloud (MCP) |
+| **v5.0** | 02/11/2026 | App RTCloud para Android, iPhone/iPad e Windows |
 
-> Fonte única: [rtcloud.com.br/novidades](https://rtcloud.com.br/novidades). Espelho resumido também em [docs GitHub → Novidades](https://rtcloud-br.github.io/rtcloud-docs/novidades/).
+> Completo no site: [rtcloud.com.br/novidades](https://rtcloud.com.br/novidades) · espelho: [docs → Novidades](https://rtcloud-br.github.io/rtcloud-docs/novidades/).
+
 
 ## 🔗 Links
 
